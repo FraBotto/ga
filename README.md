@@ -518,5 +518,5 @@ What this means unfortunately is that if you run this code in anything else othe
 The example code has been inspired by the following work:
 
 * Daniel Schiffman's excellent book _The Nature of Code_ http://natureofcode.com -- it's a great and easy to understand read! I also took some of Daniel's code in Java and converted it to Go for the Shakespeare quote algorithm
-* Roger Johansson's excellent work in the post _Genetic Programming: Evolutiono of Mona Lisa_ https://rogerjohansson.blog/2008/12/07/genetic-programming-evolution-of-mona-lisa/ -- although I ended up using a completely different way of doing genetic algorithms, his original work gave me inspiration to use Mona Lisa and also to try doing it with triangles and circles
+* Roger Johansson's excellent work in the post _Genetic Programming: Evolution of Mona Lisa_ https://rogerjohansson.blog/2008/12/07/genetic-programming-evolution-of-mona-lisa/ -- although I ended up using a completely different way of doing genetic algorithms, his original work gave me inspiration to use Mona Lisa and also to try doing it with triangles and circles
 
